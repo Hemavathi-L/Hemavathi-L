@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemavathi-L
 - 👀 I’m interested in Data Anaytics and Statistics
-- 🌱 I’m currently learning Data Scientist
+- 🌱 I’m currently learning Data Scientist.
 - 📫 How to reach me https://www.linkedin.com/in/hemavathi-l-5998061ba/
 
 <!---
